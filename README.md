@@ -36,6 +36,21 @@ Your task is to containerize this existing application using Docker. You need to
 3. Run a container from your image
 4. Verify the application works by accessing it in your browser
 
+## Starting the Application
+
+- To build the docker image run the command:
+
+```bash
+
+```
+
+- To run your docker container in port 3000 run the command:
+
+```bash
+
+```
+
+
 ## Application Requirements for Docker
 
 Your Dockerfile should ensure:
