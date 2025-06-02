@@ -1,4 +1,4 @@
-# Docker Demo Application
+# Assignment #4: Application Containerization
 
 This is a simple Node.js web application designed for learning Docker containerization concepts.
 
