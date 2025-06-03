@@ -50,6 +50,10 @@ Your task is to containerize this existing application using Docker. You need to
 
 ```
 
+## Reflection Question
+**Answer the following question in the space below**: How does containerization with Docker differ from using virtual machines, and why might a development team choose Docker containers over VMs for deploying applications like the one you just containerized?
+
+
 
 ## Application Requirements for Docker
 
